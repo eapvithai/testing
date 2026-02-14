@@ -1,1 +1,2 @@
 she is super beautiful 
+in this second line, i will make a little change and try to learn how to use pull with git cmd.
